@@ -1,0 +1,11 @@
+#Compound Figure Detection
+
+**Input**: A png file extracted for a scholarly figure
+**Output**: Positive/Negative depending on whether the figure is a compound figure or not.
+
+##Steps
+------------
+
+1. Otsu binarization
+2. .... 
+
