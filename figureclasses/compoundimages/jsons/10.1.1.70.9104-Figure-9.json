@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 9,
+"Page": 17,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [173,829,674,845],
+"Caption": "Figure 9: Objective function value with respect to time on kdd99 with various values of λ.",
+"ImageBB": [193,293,656,802],
+"ImageText" : [
+
+]}

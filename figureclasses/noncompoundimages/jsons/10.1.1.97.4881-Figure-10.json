@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 10,
+"Page": 7,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [438,622,772,680],
+"Caption": "Figure 10: OnlineRank vs. perceptron on synthetic data for concept drift rate c = 0.1 and depth per- centile noise d = 0.01. Vertical bars mark a change of concept. ",
+"ImageBB": [466,403,742,607],
+"ImageText" : [
+
+]}

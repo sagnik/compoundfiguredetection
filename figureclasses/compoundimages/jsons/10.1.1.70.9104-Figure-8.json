@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 8,
+"Page": 16,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [176,829,673,845],
+"Caption": "Figure 8: Objective function value with respect to time on web8 with various values of λ.",
+"ImageBB": [194,294,656,802],
+"ImageText" : [
+
+]}

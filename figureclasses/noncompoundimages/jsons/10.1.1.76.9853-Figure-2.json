@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 2,
+"Page": 5,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [425,395,752,667],
+"Caption": "Figure 2. 2D toy example of different morphs between the two left images. First row: Using the cost function (3) which attempts to preserve distances to the surface, we ob- tain a 50% morph (third image) which is reasonable but not optimal. The warp field, shown on the right, reveals that the algorithm tries to shrink the upper part and ex- pand the lower part of the triangular protrusion. Second row: If we use a cost function which is also sensitive to gradients of the signed distance function (cf. (4)), then the warp is forced to displace points on the top and bottom sides of the triangle to corresponding points on the shifted triangle. This leads to a satisfactory morph (third image from the left). Third row: One might think that a good morph could also be obtained by simply taking a convex combination (with equal weights) of the two signed dis- tance functions, as approximated using our kernel method, and rendering its zero set. The last image shows that this approach already fails for our toy example. ",
+"ImageBB": [472,104,709,375],
+"ImageText" : [
+
+]}

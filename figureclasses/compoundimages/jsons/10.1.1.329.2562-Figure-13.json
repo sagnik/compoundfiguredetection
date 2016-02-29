@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 13,
+"Page": 9,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [98,567,750,612],
+"Caption": "Figure 13: Impact of probational count values on survival probability. Left figure shows aggregate survival probability for all drives after first probational count. Middle figure breaks down survival probability per drive ages in months. Right figure breaks down drives by their number of probational counts. ",
+"ImageBB": [101,372,744,558],
+"ImageText" : [
+
+]}
