@@ -1,0 +1,20 @@
+{"Type":"Figure",
+"Number": 4,
+"Page": 7,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [173,255,675,365],
+"Caption": "Figure 4: Electric stimulation of the implanted electrodes helps to identify the parts of the cortex that are covered by the electrode grid. This information is necessary for the surgery. The red (solid) dots on the left picture mark the motor cortex of patient II as identified by the electric stimulation method. The positions marked with yellow crosses correspond to the epileptic focus. The red points on the right image are the best ranked channels by Recursive Channel Elimination (RCE). The RCE-channels correspond well to the results from the electro stimulation diagnosis. ",
+"ImageBB": [226,99,623,242],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [309.667,115.808,314.679,123.818], "Text": "X"},
+	{"Rotation": 0,"TextBB": [322.382,117.762,327.394,125.772], "Text": "X"},
+	{"Rotation": 0,"TextBB": [336.419,119.505,341.431,127.516], "Text": "X"},
+	{"Rotation": 0,"TextBB": [307.052,128.913,312.064,136.924], "Text": "X"},
+	{"Rotation": 0,"TextBB": [319.526,130.927,324.538,138.938], "Text": "X"},
+	{"Rotation": 0,"TextBB": [333.804,132.671,338.816,140.681], "Text": "X"},
+	{"Rotation": 0,"TextBB": [303.295,143.853,308.307,151.863], "Text": "X"},
+	{"Rotation": 0,"TextBB": [316.49,145.416,321.502,153.426], "Text": "X"},
+	{"Rotation": 0,"TextBB": [330.708,147.159,335.72,155.169], "Text": "X"}
+]}

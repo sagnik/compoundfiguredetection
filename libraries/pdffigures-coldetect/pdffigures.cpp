@@ -153,9 +153,9 @@ int main(int argc, char **argv) {
   
   std::vector<TextPage *> pages = getTextPages(doc.get(), resolution);
   DocumentStatistics docStats = DocumentStatistics(pages, doc.get(), verbose);
-  printf("%s", docStats.documentIsTwoColumn() ? "two": "one");
-  return 0;
-  /*
+  //printf("%s", docStats.documentIsTwoColumn() ? "two": "one");
+  return  docStats.documentIsTwoColumn() ? 3: 2;
+ /*
   if (verbose)
     printf("Scanned %d pages\n", (int)pages.size());
   if (docStats.isBodyTextGraphical() and not textAsImage) {

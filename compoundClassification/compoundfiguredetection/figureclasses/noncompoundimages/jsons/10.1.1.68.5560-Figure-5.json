@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 5,
+"Page": 5,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [79,295,409,392],
+"Caption": "Figure 5: Schematic visualization of the idea of data pruning with weaker learners. Weaker learners (marked with red) are not as powerful as the ’true’ decision boundary (marked with black) but can learn enough about the target to be able to identify wrongly labeled or outlying examples. ",
+"ImageBB": [134,100,357,269],
+"ImageText" : [
+
+]}

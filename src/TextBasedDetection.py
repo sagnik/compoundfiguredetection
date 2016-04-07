@@ -7,7 +7,9 @@ re.compile("a\)(.*?)b\)"), # <a) b)>, <a)., b).>
 re.compile("lower(.*?)upper"), # <lower, upper> 
 re.compile("i\)(.*?)ii\)"), # <i) ii)>, <i)., ii).> 
 re.compile("1\)(.*?)1\)"), # <1) 2)>, <1)., 2).> 
-re.compile("left(.*?)right") # <lower, upper> 
+re.compile("left(.*?)right"), # <left, right>
+re.compile("top(.*?)bottom") # <left, right>
+ 
 ]
 
 def detectCompound(jl):
@@ -25,6 +27,7 @@ def detectCompound(jl):
         print imtextmatches
         '''
         if (sum(captionmatches)!=1 and sum(imtextmatches)!=1) or sum(captionmatches)+sum(imtextmatches)==0:
+            #print captionmatches,imtextmatches
             return False
         else: 
             return True

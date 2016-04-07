@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 4,
+"Page": 4,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [68,384,398,443],
+"Caption": "Figure 4. A dynamic panorama of a tree whose leaves are blowing in the wind. Left: three frames from the sequence (out of 300 frames), scanning the tree from the bottom up. Right: a single frame from the resulting dynamosaic movie. ",
+"ImageBB": [84,98,404,368],
+"ImageText" : [
+
+]}

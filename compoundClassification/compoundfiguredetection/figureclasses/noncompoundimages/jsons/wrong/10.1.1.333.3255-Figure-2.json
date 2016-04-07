@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 2,
+"Page": 3,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [84,490,381,538],
+"Caption": "Figure 2. Examples of pose skeletonisation from silhou- ette, with the position of objects inferred from the skeleton. Scene outlines are manually added as an aid for the reader. ",
+"ImageBB": [67,364,396,490],
+"ImageText" : [
+
+]}

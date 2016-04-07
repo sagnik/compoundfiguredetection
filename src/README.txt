@@ -38,4 +38,7 @@ Then first use function featureGenerator() to generate all its features and then
 
 ### just text based detection
 Just text based detection has 62.1%  accuracy for compound images and 87% accuracy for non compound images
- 
+
+##both text and column span based detection
+
+75% accuracy for both compound and non compound images. 
