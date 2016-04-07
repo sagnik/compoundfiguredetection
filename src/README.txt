@@ -35,3 +35,7 @@ All 0.8 0.74 0.89 0.86 0.81
 
 ===================FeatGenerator.py: To classify an image, you need to specify its image path and json path in this file. You also need to specify randomForest.pkl, test_pca, visual_pca and text dictionary path in the file. 
 Then first use function featureGenerator() to generate all its features and then compoundClassfication() to classify the figure. See main function for the processing flow. . Y[0] ]is the predicted label and is returned by function compoundClassfication(), 0 stands for compound image and 1 stands for noncompound image.
+
+### just text based detection
+Just text based detection has 62.1%  accuracy for compound images and 87% accuracy for non compound images
+ 
